@@ -1,2 +1,2 @@
-Just an img repo to make life easyer
+Just an img repo to make life easier
 
